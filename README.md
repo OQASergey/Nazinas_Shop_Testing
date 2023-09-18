@@ -3,6 +3,8 @@
 
 ***Статус:*** завершено
 
-***Ссылка на confluence:***
+*Примечание:* добавлен список багов со ссылками на Jiro
+
+***Ссылка на Cofluence проекта:***
 https://testbase.atlassian.net/wiki/spaces/SHOP/overview?homepageId=1411056054
 
