@@ -6,6 +6,6 @@
 
 *Примечание:* добавлен список багов со ссылками на Jiro
 
-***Ссылка на Cofluence проекта:***
+***Ссылка на документацию проекта в Cofluence:***
 https://testbase.atlassian.net/wiki/spaces/SHOP/overview?homepageId=1411056054
 
