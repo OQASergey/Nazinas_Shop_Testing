@@ -11,7 +11,7 @@ ___
 
 ***[Ссылка-приглашение в Jira (от 17.10.23)](https://id.atlassian.com/invite/p/jira-software?id=zaIiEOTnTuii7xIXIxLE5g)***
 
-***[Ссылка на гугл-таблицу с чек-листами](https://docs.google.com/spreadsheets/d/1HMULpMJQgLTQI46bNFXlmUVLY3ge_IL4gwGPItUmX-g/edit#gid=1020368684)***
+***[Ссылка на гугл-таблицу с чек-листами](https://docs.google.com/spreadsheets/d/1ni9AWjHQB1nAeujFt4JDoHnvyBznNzVFQGPqtXg5vGY/edit#gid=0)***
 
 
 ___
