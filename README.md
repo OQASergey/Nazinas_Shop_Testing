@@ -9,6 +9,10 @@ ___
 
 ***[Ссылка на документацию проекта](https://testbase.atlassian.net/wiki/spaces/SHOP/overview?homepageId=1411056054)***
 
+***[Ссылка-приглашение в Jira (от 17.10.23)](https://id.atlassian.com/invite/p/jira-software?id=zaIiEOTnTuii7xIXIxLE5g)***
+
+***[Ссылка на гугл-таблицу с чек-листами](https://docs.google.com/spreadsheets/d/1ni9AWjHQB1nAeujFt4JDoHnvyBznNzVFQGPqtXg5vGY/edit#gid=0)***
+
 
 ___
 
