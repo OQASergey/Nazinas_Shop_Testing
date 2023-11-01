@@ -17,6 +17,8 @@ ___
 
 ***[Ссылка на гугл-таблицу с чек-листами](https://docs.google.com/spreadsheets/d/1ni9AWjHQB1nAeujFt4JDoHnvyBznNzVFQGPqtXg5vGY/edit#gid=0)***
 
+***Ссылка на ключ для postman'а (автотестирование smoke всех доуступеых через API функций):*** https://api.postman.com/collections/30220849-d417c303-1fc9-4700-9707-dd6955623a68?access_key=PMAT-01HCHVN23KVM4XPP1XEGXBC820
+
 
 ___
 
