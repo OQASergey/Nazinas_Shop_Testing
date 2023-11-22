@@ -1,5 +1,7 @@
 # Nazina's_Shop_Testing
 
+![title](https://github.com/OQASergey/Nazinas_Shop_Testing/raw/main/pics/title.jpg)
+
 Чек-листы и список багов/улучшений для учебного интернет-магазина одежды О. Назиной.
 
 В репозитории находятся следующие типы файлов:
