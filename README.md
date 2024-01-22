@@ -17,11 +17,13 @@
 ___
 ***Статус:*** завершено
 
-***[Ссылка на документацию проекта](https://testbase.atlassian.net/wiki/spaces/SHOP/overview?homepageId=1411056054)***
+***[Ссылка на проект по автоматизации в Postman'е](https://github.com/OQASergey/Nazina-s_Shop-automation_Postman#readme)***
+
+***[Ссылка на документацию проекта (доступ может быть закрыт владельцем)](https://testbase.atlassian.net/wiki/spaces/SHOP/overview?homepageId=1411056054)***
+
+***[Ссылка на сайта магазина](http://shop.bugred.ru/)***
 
 ***[Ссылка на гугл-таблицу с чек-листами](https://docs.google.com/spreadsheets/d/1ni9AWjHQB1nAeujFt4JDoHnvyBznNzVFQGPqtXg5vGY/edit#gid=0)***
-
-***[Ссылка на проект по автоматизации в Postman'е](https://github.com/OQASergey/Nazina-s_Shop-automation_Postman#readme)***
 
 ***Ссылка на ключ для postman'а (автотестирование smoke всех доступных через API функций):*** https://api.postman.com/collections/30220849-d417c303-1fc9-4700-9707-dd6955623a68?access_key=PMAT-01HCHVN23KVM4XPP1XEGXBC820
 
