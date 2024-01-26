@@ -21,7 +21,7 @@ ___
 
 ***[Ссылка на документацию проекта (доступ может быть закрыт владельцем)](https://testbase.atlassian.net/wiki/spaces/SHOP/overview?homepageId=1411056054)***
 
-***[Ссылка на сайта магазина](http://shop.bugred.ru/)***
+***[Ссылка на сайт магазина](http://shop.bugred.ru/)***
 
 ***[Ссылка на гугл-таблицу с чек-листами](https://docs.google.com/spreadsheets/d/1ni9AWjHQB1nAeujFt4JDoHnvyBznNzVFQGPqtXg5vGY/edit#gid=0)***
 
